@@ -8,6 +8,7 @@ MasterDuelRenameは、遊戯王マスターデュエルのカード詳細画面�
 YouTube、及びニコニコ動画にて解説を行っています。
 
 Youtube：
+
 ニコニコ動画：
 
 
